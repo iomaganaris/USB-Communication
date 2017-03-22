@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\giannis\desktop\desktop\corsair usb prwto backup-ayto xrisimopoiw gia to programma\an0065_efm32_usb_device\host\src\main.cpp(199): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(475): note: see declaration of 'ctime'
+c:\users\giannis\desktop\desktop\corsair usb prwto backup-ayto xrisimopoiw gia to programma\an0065_efm32_usb_device\host\src\main.cpp(273): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(475): note: see declaration of 'ctime'
+c:\users\giannis\desktop\desktop\corsair usb prwto backup-ayto xrisimopoiw gia to programma\an0065_efm32_usb_device\host\src\main.cpp(184): warning C4101: 'arra': unreferenced local variable
+c:\users\giannis\desktop\desktop\corsair usb prwto backup-ayto xrisimopoiw gia to programma\an0065_efm32_usb_device\host\src\main.cpp(168): warning C4101: 'buffer1': unreferenced local variable
+c:\users\giannis\desktop\desktop\corsair usb prwto backup-ayto xrisimopoiw gia to programma\an0065_efm32_usb_device\host\src\main.cpp(136): warning C4101: 'iint': unreferenced local variable
+  usbhost.vcxproj -> C:\Users\Giannis\Desktop\Desktop\corsair usb prwto backup-AYTO XRISIMOPOIW GIA TO PROGRAMMA\an0065_efm32_usb_device\host\msvc\usbhost\Debug\usbhost.exe
+  usbhost.vcxproj -> C:\Users\Giannis\Desktop\Desktop\corsair usb prwto backup-AYTO XRISIMOPOIW GIA TO PROGRAMMA\an0065_efm32_usb_device\host\msvc\usbhost\Debug\usbhost.pdb (Full PDB)
